@@ -1,5 +1,6 @@
-# Show Flyers App
+# Simple Flyers App
 
+![Flyers App](https://i.ibb.co/XYR3H5M/tempsnip.png)
 
 ## Stack
 
@@ -16,6 +17,7 @@ It's built with:
 It's built with:
 - Node-js
 - Express
+
 
 ## Demo
 Check out the live project soon!
