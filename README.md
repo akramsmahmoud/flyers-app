@@ -8,7 +8,7 @@
 It's built with:
 - React
 - React Hooks
-- Reducx & redux-thunk
+- Redux & redux-thunk
 - Material-ui
 
 ### Server part
